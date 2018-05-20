@@ -1,0 +1,25 @@
+{
+  "name": "postinstallTest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "postinstall": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BhuwanBhaskar/postinstallTest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BhuwanBhaskar/postinstallTest/issues"
+  },
+  "homepage": "https://github.com/BhuwanBhaskar/postinstallTest#readme",
+  "dependencies": {
+    "typescript": "2.8.3"
+  }
+}
