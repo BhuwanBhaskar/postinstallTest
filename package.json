@@ -19,7 +19,7 @@
     "url": "https://github.com/BhuwanBhaskar/postinstallTest/issues"
   },
   "homepage": "https://github.com/BhuwanBhaskar/postinstallTest#readme",
-  "dependencies": {
+  "devDependencies": {
     "typescript": "2.8.3"
   }
 }
